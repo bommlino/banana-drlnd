@@ -22,7 +22,7 @@ The required report is [here](reports/Report.pdf).
 
 
 ### Install
-This project requires **Python 3.6.10** or higher, the Banana Collector Environment (follow the instructions to download [here](drlnd/README.md)) and the following Python libraries installed:
+This project requires **Python 3.6.10** or higher, the Banana Collector Environment (see *Getting Started*) and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Torch](https://pytorch.org)
